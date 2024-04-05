@@ -1,5 +1,5 @@
 <div align="center" >
-  <img  src="https://raw.githubusercontent.com/Fazokhan/Project-NextOS-/main/assets/banner.png"  />
+  <img  src="https://raw.githubusercontent.com/Fazokhan/Project-NextOS-/main/assets/banner.jpg"  />
   <p>HYPER OS PORT AND MOD BY NEXTOS-TEAM</p>
 </div>
 <h3>BUILD CHANGELOG - HYPER_NEXTOS</h3>
