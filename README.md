@@ -66,7 +66,6 @@
 
 <h3> FLASH STEPS</h3>
 <pre>
-
 • Wipe 3 (Dalvik , Data , Cache)
 • Flash Rom .
 • Flash Custom Recovery (Ramdisk).
