@@ -51,10 +51,27 @@
 
 
 <h3>ROM ASSETS AND MENTIONS</h3>
+<a href="https://t.me/RN11PakCommunity/28682"><img  height="35" src="https://raw.githubusercontent.com/Fazokhan/Project-NextOS-/main/assets/recovery_button.png"  /></a>
 
 <a href="https://telegra.ph/NEXT-OS---FLASHING-STEPS-02-26"><img  height="35" src="https://raw.githubusercontent.com/Fazokhan/Project-NextOS-/main/assets/button_installation-steps.png"  /></a>
 <a href="https://t.me/SSgroupRN11"><img  height="35" src="https://raw.githubusercontent.com/Fazokhan/Project-NextOS-/main/assets/button_screenshots.png"  /></a>
 <a href="https://drive.google.com/file/d/1-2z2QGb98SnVotVacQc6Fp-AOPHgjmMG/view?usp=drivesdk"><img  height="35" src="https://raw.githubusercontent.com/Fazokhan/Project-NextOS-/main/assets/safety_button.png"  /></a>
+
+<h3> FLASH STEPS</h3>
+<pre>
+
+• Wipe 3 (Dalvik , Data , Cache)
+• Flash Rom .
+• Flash Custom Recovery (Ramdisk).
+• Flash Magisk (Optional).
+• Format Data.
+• Reboot and get some tea.
+
+
+
+
+
+</pre>
 
 <h3>COMMUNITY</h3>
 
