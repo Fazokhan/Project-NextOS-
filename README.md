@@ -2,6 +2,7 @@
   <img  src="https://raw.githubusercontent.com/Fazokhan/Project-NextOS-/main/assets/banner.jpg"  />
   <p>HYPER OS PORT AND MOD BY NEXTOS-TEAM</p>
 </div>
+<h2 align="center">"AN EID GIFT FROM NEXT-OS TEAM"</h2>
 <h3>BUILD CHANGELOG - HYPER_NEXTOS</h3>
 <pre>
 • HyperOS China 1.0.3.0 A13
