@@ -1,6 +1,6 @@
 <div align="center" >
-  <img  src=""  />
-  <p>AN ANDROID MOD BASED ON MIUI</p>
+  <img  src="https://raw.githubusercontent.com/Fazokhan/Project-NextOS-/main/assets/banner.png"  />
+  <p>HYPER OS PORT AND MOD BY NEXTOS-TEAM</p>
 </div>
 <h3>BUILD CHANGELOG - HYPER_NEXTOS</h3>
 <pre>
@@ -59,7 +59,7 @@
 <h3>COMMUNITY</h3>
 
 <a href="https://t.me/RedmiN11Pak"><img  height="35" src="https://raw.githubusercontent.com/Fazokhan/Project-NextOS-/main/assets/button_update-channel.png"  /></a>
-<a href="https://t.me/nextosmerlinx"><img  height="35" src="https://raw.githubusercontent.com/Fazokhan/Project-NextOS-/main/assets/button_support-group.png"  /></a>
+<a href="https://t.me/RN11PakCommunity"><img  height="35" src="https://raw.githubusercontent.com/Fazokhan/Project-NextOS-/main/assets/button_support-group.png"  /></a>
 
 
 <h3 align="center" >DISCLAIMER</h3>
