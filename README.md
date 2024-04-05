@@ -49,6 +49,13 @@
 • Nfc is fixed
 </pre>
 
+<h3> NOTES :</h3>
+<pre>
+
+• Notification shader will take effect when press reboot button from notification panel.
+• if Google discover doesn't appear just reboot the launcher once.
+</pre>
+
 
 <h3>ROM ASSETS AND MENTIONS</h3>
 <a href="https://t.me/RN11PakCommunity/28682"><img  height="35" src="https://raw.githubusercontent.com/Fazokhan/Project-NextOS-/main/assets/recovery_button.png"  /></a>
